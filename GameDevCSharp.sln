@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9B890DDF-756D-735A-BEAC-F7C68CA169A8}") = "GameDevCSharp", "Assembly-CSharp.csproj", "{7301B4AF-846E-FAAC-2EDB-A2835B6E2A47}"
+EndProject
+Project("{9B890DDF-756D-735A-BEAC-F7C68CA169A8}") = "GameDevCSharp", "Assembly-CSharp-Editor.csproj", "{00AE6315-F707-FD49-43F7-CC3E7EF6EF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7301B4AF-846E-FAAC-2EDB-A2835B6E2A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7301B4AF-846E-FAAC-2EDB-A2835B6E2A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7301B4AF-846E-FAAC-2EDB-A2835B6E2A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7301B4AF-846E-FAAC-2EDB-A2835B6E2A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AE6315-F707-FD49-43F7-CC3E7EF6EF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AE6315-F707-FD49-43F7-CC3E7EF6EF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AE6315-F707-FD49-43F7-CC3E7EF6EF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AE6315-F707-FD49-43F7-CC3E7EF6EF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
