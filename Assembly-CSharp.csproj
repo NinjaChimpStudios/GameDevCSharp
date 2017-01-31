@@ -49,6 +49,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GuessingGame.cs" />
+     <Compile Include="Assets\GuessingGame2.cs" />
+     <Compile Include="Assets\HelloExpressions.cs" />
      <Compile Include="Assets\HelloWorld.cs" />
      <Compile Include="Assets\HelloWorldVariable.cs" />
  <Reference Include="UnityEngine.UI">
